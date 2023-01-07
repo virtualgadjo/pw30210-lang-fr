@@ -4,7 +4,7 @@ Traduction complète de l'admin de ProcessWire
 
 mise à jour à partir de la version que j'avais pondue pour la version 3.0.200 (https://github.com/virtualgadjo/pw30200-lang-fr) elle-même basée sur la version pour pw 3.0.148 faite par les traducteurs cités plus bas puis la 3.0.184 made in ma pomme
 
-un merci tout particukier à [Vincent Maillard](https://github.com/v-maillard/pw-lang-fr) qui s'equiquine à utiliser mes fichiers en attendant que j'apprenne à me servir mieux de github pour en intégrer les modifs dans la trad dispo en download sue le site de PW
+un merci tout particukier à [Vincent Maillard](https://github.com/v-maillard/pw-lang-fr) qui s'equiquine à utiliser mes fichiers en attendant que j'apprenne à me servir mieux de github pour en intégrer les modifs dans la trad dispo en download sur le site de PW
 
 le readme est en français parce que c'est destiné à servir à passer l'admin de PW en... français, nooon, sans blague !
 
